@@ -47,5 +47,5 @@ Stay consistent with your steps and track your progress using the Step Tracker A
 
 ---
 
-### 🛠️ **Built by Brajendra Choudhary**  
+### 🛠️ **Built by BKC**  
 **Stay fit, stay healthy, and keep stepping forward!**
